@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.111-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Gemini](https://img.shields.io/badge/Gemini-1.5_Flash-4285F4?style=flat-square&logo=google&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-3.5_Flash-4285F4?style=flat-square&logo=google&logoColor=white)
 
 ---
 
@@ -122,7 +122,7 @@ CV-Analyzer/
 
 `backend/main.py` içinde modeli değiştirebilirsiniz:
 ```python
-MODEL = "gemini-1.5-flash"   # Ücretsiz, hızlı
+MODEL = "gemini-3.5-flash"   # Ücretsiz, hızlı
 # MODEL = "gemini-2.0-flash" # Daha güncel
 ```
 
